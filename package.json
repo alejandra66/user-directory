@@ -1,0 +1,21 @@
+{
+  "name": "user-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandra66/user-directory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandra66/user-directory/issues"
+  },
+  "homepage": "https://github.com/alejandra66/user-directory#readme"
+}
